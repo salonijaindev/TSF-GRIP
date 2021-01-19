@@ -1,5 +1,5 @@
 # TSF-GRIP
-Internship Tasks 
+The Sparks Foundation- Data Science and Business Analytics Internship Tasks 
 
 Task-1:
      To predict the percentage of marks of an student based on the number of study hours using Supervised ML
